@@ -50,34 +50,22 @@ export const SEARCH: Page = {
 // Study Page
 export const STUDIES = [
   {
-    title: 'Computer Science',
-    institution: 'Universidad Central',
-    link: 'https://www.ucentral.edu.co/',
-    date: '2019 - 2027',
+    title: 'Profesional de mercadeo, marketing.',
+    institution: 'Universidad de Ibagué',
+    link: 'https://www.unibague.edu.co/',
+    date: '2014 - 2020',
   },
   {
-    title: '...',
-    institution: 'Platzi',
-    link: 'https://platzi.com/',
-    date: '2018 - 2022',
-  },
-  {
-    title: '...',
-    institution: 'Udemy',
-    link: 'https://www.udemy.com/',
-    date: '2018 - 2022',
-  },
-  {
-    title: '...',
+    title: 'Curso javascript',
     institution: 'Youtube',
     link: 'https://www.youtube.com/@midulive',
-    date: '2018 - 2022',
+    date: '2021 - 2022',
   },
   {
-    title: 'Tattoo Artist',
-    institution: 'Tattoo Academy',
-    link: 'https://www.instagram.com/tattoodcacademy/',
-    date: '2024 - 2025',
+    title: 'Frotend developer',
+    institution: 'Platzi',
+    link: 'https://platzi.com/',
+    date: '2022 - 2023',
   },
 ]
 
